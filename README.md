@@ -15,7 +15,7 @@ Battle rules are:
 
 Battle example:
 
-![battle example](spl_battle_example.PNG)
+![battle example](spl_battle_example.png)
 
 Aim is to create a ML/AI model that will predict lineups based on the battle rules. 
  
