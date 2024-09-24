@@ -1,0 +1,52 @@
+rule_id,rule_name,rule_impact
+0,Standard,Low
+1,Aim True,Low
+2,Aimless,Low
+3,Armored Up,Low
+4,Back to Basics,Mid
+5,Briar Patch,Low
+6,Broken Arrows,High
+7,Close Range,Low
+8,Counterspell,Low
+9,Earthquake,Mid
+10,Equal Opportunity,Mid
+11,Equalizer,Mid
+12,Even Stevens,High
+13,Explosive Weaponry,Mid
+14,Ferocity,Low
+15,Fire & Regret,Mid
+16,Fog of War,Mid
+17,Going the Distance,High
+18,Healed Out,Mid
+19,Heavy Hitters,Low
+20,Holy Protection,Low
+21,Keep Your Distance,High
+22,Little League,High
+23,Lost Legendaries,High
+24,Lost Magic,High
+25,Melee Mayhem,Mid
+26,Noxious Fumes,Mid
+27,Odd Ones Out,High
+28,Reverse Speed,Mid
+29,Rise of the Commons,High
+30,Silenced Summoners,Mid
+31,Spreading Fury,Low
+32,Stampede,Low
+33,Super Sneak,Mid
+34,Taking Sides,High
+35,Target Practice,Low
+36,Tis but Scratches,Low
+37,Unprotected,Low
+38,Up Close & Personal,High
+39,Up to Eleven,Low
+40,Wands Out,High
+41,Weak Magic,Low
+42,What Doesn’t Kill You,Low
+43,Are You Not Entertained?,High
+44,Born Again,Low
+45,Maneuvers,Low
+46,Blood and Sunder,Low
+47,FiveAlive,Mid
+48,FabFour,Mid
+49,Shades of Gray,Mid
+50,Corrosive Fog,Low
